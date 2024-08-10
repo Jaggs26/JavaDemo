@@ -8,6 +8,7 @@ public class ThirdPage extends FirstPage {
 ThirdPage t3 = new ThirdPage();
 System.out.println(t3.c);
 System.out.println(t3.d);
+System.out.println("Hey How Are You Doing here ");
 	}
 
 }
